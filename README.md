@@ -1,11 +1,13 @@
-# Funcionalidades
+# Proffy: Plataforma para conectar alunos e professores.
 
-## Conexões
+## Funcionalidades
+
+### Conexões
 
 - Rota para listar o total de conexões realizadas;
 - Rota para criar uma conexão;
 
-## Aulas
+### Aulas
 
 - Rota para criar uma aula;
 - Rota para listar aulas;
